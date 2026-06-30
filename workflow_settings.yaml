@@ -1,5 +1,6 @@
 defaultProject: ford-training-430008
 defaultLocation: europe-west4
+<<<<<<< HEAD
 defaultDataset: 02_hu_sell_in_gold
 
 vars:
@@ -7,3 +8,11 @@ vars:
   stage_dataset: 02_hu_sell_in_stage
   intermediate_dataset: 02_hu_sell_in_intermediate
   gold_dataset: 02_hu_sell_in_gold
+=======
+defaultDataset: 03_ibis_bel_nld_gold
+vars:
+  raw_dataset: 03_ibis_bel_nld_raw
+  stage_dataset: 03_ibis_bel_nld_stage
+  intermediate_dataset: 03_ibis_bel_nld_intermediate
+  gold_dataset: 03_ibis_bel_nld_gold
+>>>>>>> refs/heads/main
